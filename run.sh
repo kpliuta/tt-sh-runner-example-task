@@ -1,7 +1,7 @@
 #!/bin/sh
 
-echo "Countdown 10 to 1:"
-i=10
+echo "Countdown 11 to 1:"
+i=11
 while [ $i -ge 1 ]; do
     echo $i
     i=$((i - 1))
